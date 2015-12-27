@@ -1,5 +1,10 @@
 # SamsungWearableData
-This repo provides a R script that reads multiple files from the Human Activity Recognition Smartphone Dataset and obtains tidy data set for analysis. Following steps were performed on the data to obtain a merged data set.
+This repo provides a R script that reads multiple files from the Human Activity Recognition Smartphone Dataset and obtains tidy data set for analysis. 
+
+
+# Following steps were performed on the data to obtain a merged data set.
+
+
 
  Install and load required r-packages
 
